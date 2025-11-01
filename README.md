@@ -23,6 +23,7 @@ This repository contains the data used to analyze agricultural production, famil
 - **Table 1109:** Number and area of agricultural establishments by land ownership and family farming condition.  
 - **Variable:** *Number of agricultural establishments (units)*  
 - **Coverage:** Brazil and municipalities, year 2006.
+- **Filter:** *Family farming = Yes*
 - **Source:** https://sidra.ibge.gov.br/tabela/1109
 
 ---
