@@ -8,9 +8,8 @@ This repository contains the data used to analyze agricultural production, famil
 
 /brazil_data/
 │
-├── NCM_2003.csv # (to be added)
-├── PRODLIST_2003.csv # (to be added)
-├── IO_TABLE_2015.xlsx # (to be added)
+├── NCM_n_PRODLIST_2003.csv
+├── IO_TABLE_2015.xlsx
 ├── PAM_1998_2000.xlsx
 ├── FAMILY_FARMING_IBGE_2006.xlsx
 ├── FAMILY_FARMING_IBGE_2017.xlsx
