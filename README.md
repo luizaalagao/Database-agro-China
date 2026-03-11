@@ -45,3 +45,22 @@ This repository contains the data used to analyze agricultural production, famil
 - **Level of aggregation:** Municipality and crop type.
 - **Included crops:** https://pastebin.com/u8mF1tY3
 - **Source:** https://sidra.ibge.gov.br/tabela/5457
+
+### **NCM_n_PRODLIST_2003.xls**
+
+- **Source: IBGE – PRODLIST Agro/Pesca**
+- **Description: Correspondence table between PRODLIST Agro/Pesca 2003 product codes and NCM 2003 (Nomenclatura Comum do Mercosul) classifications.**
+- **Variables used: PRODLIST code, product description, unit of measure, NCM 2003 code, NCM description.**
+- **Years covered: 2003 classification.**
+- **Level of aggregation: Product level.**
+- **Source: https://raw.githubusercontent.com/luizaalagao/Database-agro-China/main/brazil_data/NCM_n_PRODLIST_2003.xls**
+
+### **IO_TABLE_2015.xlsx**
+
+- **Source: IBGE – System of National Accounts (Input–Output Tables)**
+- **Table 01: Resources of goods and services – 2015.**
+- **Variables used: Total supply at purchaser prices, trade margin, transport margin, net taxes on products, total supply at basic prices.**
+- **Please note: Values are reported in current prices, in 1,000,000 BRL (millions of reais).**
+- **Year covered: 2015.**
+- **Level of aggregation: Product level (IBGE Input–Output classification, level 67).**
+- **Source: https://www.ibge.gov.br/en/statistics/economic/national-accounts/18160-input-output-matrix.html**
