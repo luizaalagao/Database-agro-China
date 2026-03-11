@@ -39,7 +39,9 @@ This repository contains the data used to analyze agricultural production, famil
 
 - **Source:** IBGE – Municipal Agricultural Production (PAM)  
 - **Table 5457:** Planted and harvested area, production quantity, yield, and production value of temporary and permanent crops.  
-- **Variable used:** *Production value (thousand BRL)*  
+- **Variable used:** *Production value (thousand BRL)*
+- **Please note:** *The production value is reported in thousands of reais, in nominal terms (that is, in the currency value of each respective year).*
 - **Years covered:** 1998–2000  
 - **Level of aggregation:** Municipality and crop type.
+- **Included crops:** https://pastebin.com/u8mF1tY3
 - **Source:** https://sidra.ibge.gov.br/tabela/5457
